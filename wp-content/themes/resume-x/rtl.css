@@ -1,0 +1,335 @@
+/*
+Theme Name: Resume X
+RTL stylesheet for Right-to-Left language support
+*/
+
+/* Basic RTL overrides */
+body {
+    direction: rtl;
+    text-align: right;
+}
+
+/* Menu button position for RTL */
+#menu-btn {
+    left: auto;
+    right: 2rem;
+}
+
+/* Theme toggler position for RTL */
+#theme-toggler {
+    right: auto;
+    left: 2rem;
+}
+
+/* Profile section adjustments */
+.profile-section {
+    text-align: right;
+}
+
+.profile-section .profile-image {
+    margin-left: auto;
+    margin-right: 0;
+}
+
+/* Main content area */
+.rxmain-content {
+    text-align: right;
+}
+
+/* Header adjustments */
+.site-header {
+    text-align: right;
+}
+
+.site-branding {
+    text-align: right;
+}
+
+/* Navigation menu RTL */
+.main-navigation ul {
+    text-align: right;
+}
+
+.main-navigation li {
+    float: right;
+}
+
+.main-navigation ul ul {
+    left: auto;
+    right: 0;
+}
+
+.main-navigation ul ul ul {
+    left: auto;
+    right: 100%;
+}
+
+/* Sidebar adjustments */
+.widget {
+    text-align: right;
+}
+
+.widget-title {
+    text-align: right;
+}
+
+/* Comments section */
+.comment-metadata {
+    text-align: right;
+}
+
+.comment-author .avatar {
+    float: right;
+    margin-left: 1rem;
+    margin-right: 0;
+}
+
+.comment-content {
+    text-align: right;
+}
+
+.reply {
+    text-align: left;
+}
+
+/* Post content */
+.entry-header {
+    text-align: right;
+}
+
+.entry-title {
+    text-align: right;
+}
+
+.entry-meta {
+    text-align: right;
+}
+
+.entry-content {
+    text-align: right;
+}
+
+.entry-footer {
+    text-align: right;
+}
+
+/* Post navigation */
+.post-navigation .nav-previous {
+    float: right;
+    text-align: right;
+}
+
+.post-navigation .nav-next {
+    float: left;
+    text-align: left;
+}
+
+/* Pagination */
+.pagination {
+    text-align: right;
+}
+
+.page-numbers {
+    float: right;
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+/* Search form */
+.search-form {
+    text-align: right;
+}
+
+.search-field {
+    text-align: right;
+    padding-right: 2rem;
+    padding-left: 1rem;
+}
+
+.search-submit {
+    left: auto;
+    right: 0;
+}
+
+/* Gallery adjustments */
+.wp-caption img[class*="wp-image-"] {
+    margin-left: 0;
+    margin-right: auto;
+}
+
+/* Form elements */
+input[type="text"],
+input[type="email"],
+input[type="url"],
+input[type="password"],
+input[type="search"],
+input[type="number"],
+input[type="tel"],
+input[type="range"],
+input[type="date"],
+input[type="month"],
+input[type="week"],
+input[type="time"],
+input[type="datetime"],
+input[type="datetime-local"],
+input[type="color"],
+textarea {
+    text-align: right;
+}
+
+/* Button alignments */
+.wp-block-button:not(.is-style-outline) .wp-block-button__link {
+    text-align: right;
+}
+
+/* List adjustments */
+ul, ol {
+    padding-right: 1.5rem;
+    padding-left: 0;
+}
+
+/* Blockquotes */
+blockquote {
+    text-align: right;
+    border-right: 4px solid #007ced;
+    border-left: none;
+    padding-right: 1rem;
+    padding-left: 0;
+    margin-right: 0;
+    margin-left: 1.5rem;
+}
+
+/* Tables */
+th, td {
+    text-align: right;
+}
+
+.wp-block-table table {
+    text-align: right;
+}
+
+/* Social media links */
+.social-links a {
+    margin-left: 0.5rem;
+    margin-right: 0;
+}
+
+/* Footer */
+.site-footer {
+    text-align: right;
+}
+
+/* Archive and category pages */
+.archive-header {
+    text-align: right;
+}
+
+.archive-title {
+    text-align: right;
+}
+
+.archive-description {
+    text-align: right;
+}
+
+/* 404 page */
+.error-404 .page-content {
+    text-align: right;
+}
+
+/* Responsive adjustments for RTL */
+@media (max-width: 768px) {
+    #menu-btn {
+        right: 1rem;
+        left: auto;
+    }
+    
+    #theme-toggler {
+        left: 1rem;
+        right: auto;
+    }
+    
+    .profile-section {
+        text-align: center;
+    }
+    
+    .main-navigation ul {
+        text-align: right;
+    }
+    
+    .comment-author .avatar {
+        float: none;
+        margin: 0 auto 1rem;
+        display: block;
+    }
+}
+
+/* Custom post types and specific theme elements */
+.resume-section {
+    text-align: right;
+}
+
+.resume-item {
+    text-align: right;
+}
+
+.skill-item {
+    text-align: right;
+}
+
+.portfolio-item {
+    text-align: right;
+}
+
+.contact-info {
+    text-align: right;
+}
+
+/* Profile area specific RTL adjustments */
+.profile-content h1,
+.profile-content h2,
+.profile-content h3,
+.profile-content h4,
+.profile-content h5,
+.profile-content h6 {
+    text-align: right;
+}
+
+.profile-content p {
+    text-align: right;
+}
+
+.profile-social-links {
+    text-align: right;
+}
+
+.profile-social-links a {
+    margin-left: 10px;
+    margin-right: 0;
+}
+
+/* Blog specific RTL */
+.blog-post-meta {
+    text-align: right;
+}
+
+.blog-post-meta .posted-on,
+.blog-post-meta .byline,
+.blog-post-meta .cat-links,
+.blog-post-meta .tags-links {
+    margin-left: 1rem;
+    margin-right: 0;
+}
+
+/* Custom widgets RTL */
+.rx-widget {
+    text-align: right;
+}
+
+.rx-widget ul {
+    text-align: right;
+}
+
+.rx-widget li {
+    text-align: right;
+}

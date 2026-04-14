@@ -1,0 +1,344 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Resume X\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-01-02 02:00+0000\n"
+"PO-Revision-Date: 2025-01-15 12:00+0000\n"
+"Last-Translator: Arabic Translation\n"
+"Language-Team: Arabic\n"
+"Language: ar\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Manual Translation\n"
+"X-Domain: resume-x\n"
+
+#. 1: Theme name, 2: Theme author.
+#: footer.php:27
+#, php-format
+msgid "%1$s by %2$s."
+msgstr "%1$s بواسطة %2$s."
+
+#. used between list items, there is a space after the comma
+#: inc/template-tags.php:63
+msgid ", "
+msgstr "، "
+
+#: functions.php:143
+msgid "Add widgets here."
+msgstr "أضف الودجات هنا."
+
+#: actions/profile-area.php:18 inc/customizer.php:112
+msgid "Alex Smith Doe"
+msgstr "أحمد محمد علي"
+
+#: inc/customizer.php:75
+msgid "All resume X theme settings"
+msgstr "جميع إعدادات قالب Resume X"
+
+#: inc/customizer.php:197
+msgid "Button Text"
+msgstr "نص الزر"
+
+#: inc/customizer.php:210
+msgid "Button Url"
+msgstr "رابط الزر"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "التعليقات مغلقة."
+
+#: comments.php:39
+#, php-format
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "لا توجد تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[1] "تعليق واحد على &ldquo;%2$s&rdquo;"
+msgstr[2] "تعليقان على &ldquo;%2$s&rdquo;"
+msgstr[3] "%1$s تعليقات على &ldquo;%2$s&rdquo;"
+msgstr[4] "%1$s تعليقاً على &ldquo;%2$s&rdquo;"
+msgstr[5] "%1$s تعليق على &ldquo;%2$s&rdquo;"
+
+msgid "Contact Me"
+msgstr "اتصل بي"
+
+msgid "Container type"
+msgstr "نوع الحاوية"
+
+#: inc/template-tags.php:87
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "متابعة القراءة<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: inc/template-tags.php:41
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr "تحرير <span class=\"screen-reader-text\">%s</span>"
+
+msgid "Facebook Url"
+msgstr "رابط فيسبوك"
+
+msgid "Full width Container"
+msgstr "حاوية كاملة العرض"
+
+#: inc/customizer.php:44
+msgid "General Settings"
+msgstr "الإعدادات العامة"
+
+msgid "Hide All Pages"
+msgstr "إخفاء جميع الصفحات"
+
+msgid "Hide Only Front Page"
+msgstr "إخفاء الصفحة الرئيسية فقط"
+
+msgid "https://wordpress.org/"
+msgstr "https://wordpress.org/"
+
+msgid "https://wpthemespace.com/"
+msgstr "https://wpthemespace.com/"
+
+msgid "https://wpthemespace.com/product/resumex/"
+msgstr "https://wpthemespace.com/product/resumex/"
+
+msgid "Image size should be 380px width & 320px height for better view."
+msgstr "يجب أن يكون حجم الصورة 380 بكسل عرض و 320 بكسل ارتفاع للحصول على أفضل مظهر."
+
+#: 404.php:22
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "يبدو أنه لم يتم العثور على شيء في هذا الموقع. ربما جرب أحد الروابط أدناه أو البحث؟"
+
+#: template-parts/content-none.php:23
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "يبدو أنه لا يمكننا العثور على ما تبحث عنه. ربما يساعد البحث."
+
+#: comments.php:52
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr "اترك تعليقاً<span class=\"screen-reader-text\"> على %s</span>"
+
+msgid "Left Sidebar"
+msgstr "الشريط الجانبي الأيسر"
+
+msgid "Linkedin Url"
+msgstr "رابط لينكد إن"
+
+#: functions.php:58
+msgid "Main Menu"
+msgstr "القائمة الرئيسية"
+
+#: inc/template-tags.php:124
+msgid "Next:"
+msgstr "التالي:"
+
+msgid "No Sidebar"
+msgstr "بدون شريط جانبي"
+
+msgid "Noor Alam"
+msgstr "نور علام"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "لم يتم العثور على شيء"
+
+#: comments.php:38
+#, php-format
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr "تعليق واحد على &ldquo;%1$s&rdquo;"
+
+#: 404.php:16
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "عذراً! لا يمكن العثور على تلك الصفحة."
+
+#: inc/template-tags.php:151
+msgid "Pages:"
+msgstr "الصفحات:"
+
+#: inc/template-tags.php:73
+#, php-format
+msgid "by %s"
+msgstr "بواسطة %s"
+
+#: inc/template-tags.php:69
+#, php-format
+msgid "Posted on %s"
+msgstr "نُشر في %s"
+
+#: inc/template-tags.php:78
+#, php-format
+msgid "Posted in: %1$s"
+msgstr "نُشر في: %1$s"
+
+#: inc/template-tags.php:120
+msgid "Previous:"
+msgstr "السابق:"
+
+msgid "Profile Image"
+msgstr "صورة الملف الشخصي"
+
+msgid "Profile Sub Title"
+msgstr "العنوان الفرعي للملف الشخصي"
+
+msgid "Profile Title"
+msgstr "عنوان الملف الشخصي"
+
+#: footer.php:27
+#, php-format
+msgid "Proudly powered by %s"
+msgstr "مدعوم بفخر من %s"
+
+msgid "Read More "
+msgstr "اقرأ المزيد "
+
+#: template-parts/content-none.php:29
+#, php-format
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "هل أنت مستعد لنشر أول مشاركة؟ <a href=\"%1$s\">ابدأ من هنا</a>."
+
+msgid "Resume X"
+msgstr "Resume X"
+
+msgid "resume X Blog Settings"
+msgstr "إعدادات مدونة Resume X"
+
+msgid "resume X Page Settings"
+msgstr "إعدادات صفحة Resume X"
+
+msgid "Resume X Profile Settings"
+msgstr "إعدادات الملف الشخصي لـ Resume X"
+
+msgid "resume X theme blog settings"
+msgstr "إعدادات مدونة قالب Resume X"
+
+msgid "resume X theme general settings"
+msgstr "الإعدادات العامة لقالب Resume X"
+
+msgid "Resume X theme profile settings"
+msgstr "إعدادات الملف الشخصي لقالب Resume X"
+
+msgid "resume X Theme settings"
+msgstr "إعدادات قالب Resume X"
+
+msgid "Resume X – is Resume / Portfolio / Personal Blog WordPress theme."
+msgstr "Resume X – هو قالب وردبريس للسيرة الذاتية / المعرض / المدونة الشخصية."
+
+msgid "Right and Left sidebar only show when sidebar widget is available. "
+msgstr "الشريط الجانبي الأيمن والأيسر يظهر فقط عندما يكون ودجت الشريط الجانبي متاحاً. "
+
+msgid "Right Sidebar"
+msgstr "الشريط الجانبي الأيمن"
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "نتائج البحث عن: %s"
+
+msgid "Select Blog Layout"
+msgstr "اختر تخطيط المدونة"
+
+msgid "Senior WordPress Developer"
+msgstr "مطور وردبريس أول"
+
+msgid "Show all pages"
+msgstr "إظهار جميع الصفحات"
+
+msgid "Show Page header"
+msgstr "إظهار رأس الصفحة"
+
+msgid "Show Profile Area? "
+msgstr "إظهار منطقة الملف الشخصي؟ "
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "الشريط الجانبي"
+
+#: header.php:37
+msgid "Skip to content"
+msgstr "تخطي إلى المحتوى"
+
+#: search.php:24 template-parts/content-none.php:20
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "عذراً، لم يتطابق أي شيء مع مصطلحات البحث. يرجى المحاولة مرة أخرى بكلمات مفتاحية مختلفة."
+
+msgid "Standard Container"
+msgstr "حاوية معيارية"
+
+#: inc/template-tags.php:82
+#, php-format
+msgid "Tagged: %1$s"
+msgstr "مُعلم بـ: %1$s"
+
+msgid "Twitter Url"
+msgstr "رابط تويتر"
+
+msgid "Upload Profile Image"
+msgstr "رفع صورة الملف الشخصي"
+
+msgid "You can set standard container or full width container. "
+msgstr "يمكنك تعيين حاوية معيارية أو حاوية كاملة العرض. "
+
+msgid "Youtube Url"
+msgstr "رابط يوتيوب"
+
+msgid "Built with ResumeX Wp Theme"
+msgstr "تم البناء باستخدام قالب ResumeX للوردبريس"
+
+msgid "Instagram Url"
+msgstr "رابط انستغرام"
+
+msgid "Whatsapp Url"
+msgstr "رابط واتساب"
+
+msgid "Telegram Url"
+msgstr "رابط تيليجرام"
+
+msgid "Email Address"
+msgstr "عنوان البريد الإلكتروني"
+
+msgid "Phone Number"
+msgstr "رقم الهاتف"
+
+msgid "Location"
+msgstr "الموقع"
+
+msgid "Website"
+msgstr "الموقع الإلكتروني"
+
+msgid "About Me"
+msgstr "نبذة عني"
+
+msgid "My Skills"
+msgstr "مهاراتي"
+
+msgid "Experience"
+msgstr "الخبرة"
+
+msgid "Education"
+msgstr "التعليم"
+
+msgid "Portfolio"
+msgstr "المعرض"
+
+msgid "Blog"
+msgstr "المدونة"
+
+msgid "Contact"
+msgstr "التواصل"
+
+msgid "Download CV"
+msgstr "تحميل السيرة الذاتية"
+
+msgid "Hire Me"
+msgstr "وظفني"
+
+msgid "Years of Experience"
+msgstr "سنوات الخبرة"
+
+msgid "Projects Completed"
+msgstr "المشاريع المكتملة"
+
+msgid "Happy Clients"
+msgstr "العملاء السعداء"
+
+msgid "Awards Won"
+msgstr "الجوائز المحققة"

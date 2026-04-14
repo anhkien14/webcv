@@ -1,0 +1,707 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Blockskit Portfolio\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-07 11:42+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.9; php-7.4.21\n"
+"X-Domain: blockskit-portfolio"
+
+#: patterns/home-faqs.php:119
+msgid "( 4.9 positive rating )"
+msgstr ""
+
+#: patterns/home-about.php:71
+msgid "1,400+"
+msgstr ""
+
+#: patterns/home-faqs.php:94
+msgid "15+"
+msgstr ""
+
+#: patterns/home-about.php:81
+msgid "599+"
+msgstr ""
+
+#: patterns/home-about.php:91
+msgid "99%"
+msgstr ""
+
+#: patterns/home-faqs.php:27
+msgid "Are you available for full/part time projects?"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:68
+msgid "Billing address"
+msgstr ""
+
+#: patterns/home-about.php:53
+msgid "Blanditiis expedita, iste nostrud rutrum."
+msgstr ""
+
+#. Name of the theme
+msgid "Blockskit Portfolio"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Blockskit Portfolio is a modern, versatile FSE WordPress theme designed for "
+"portfolio, creative, cv, developer, freelancer, portfolio, modern, one page, "
+"resume, vcard, personal and other Portfolio websites—no coding required. "
+"With full-site editing, you can easily customize every aspect of your site, "
+"including headers and footers. Featuring multiple templates, patterns, and "
+"style variations, it adapts seamlessly to various aesthetics and business "
+"needs."
+msgstr ""
+
+#. Author of the theme
+msgid "BlockskitDev"
+msgstr ""
+
+#: patterns/template-cart.php:212
+msgid "Browse store"
+msgstr ""
+
+#: patterns/home-services.php:238
+msgid "Business &amp; Digital Marketing"
+msgstr ""
+
+#: patterns/home-latest-posts.php:14
+msgid "Checkout Some of My"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Accent Text"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Background"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Body"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Current Color"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Foreground"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Heading"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Highlight"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Hover"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Inherit"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Neutral"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Outline"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Pure Black"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Pure White"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Accent"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Secondary Accent Text"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Surface"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Color name"
+msgid "Transparent"
+msgstr ""
+
+#: patterns/home-about.php:63
+msgid "Commodo maecenas nesciunt lacus aliqua nostrum."
+msgstr ""
+
+#: patterns/footer.php:53
+msgid "Company"
+msgstr ""
+
+#: patterns/home-faqs.php:20 patterns/home-faqs.php:32
+#: patterns/home-faqs.php:44 patterns/home-faqs.php:56
+msgid ""
+"Conubia possimus habitasse ultrices porro pede. Amet sociis tenetur, lacinia "
+"ullam donec conubia dignissimos soluta."
+msgstr ""
+
+#: patterns/footer.php:108
+msgid "Copyright © 2026 ·"
+msgstr ""
+
+#: patterns/home-services.php:23
+msgid "Creative Services"
+msgstr ""
+
+#: patterns/home-services.php:56 patterns/home-services.php:120
+#: patterns/home-services.php:184 patterns/home-services.php:248
+msgid "Distictio nostrum, incid."
+msgstr ""
+
+#: patterns/template-order-confirmation.php:48
+msgid "Downloads"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Primary"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Duotone name"
+msgid "Secondary"
+msgstr ""
+
+#: patterns/home-services.php:66 patterns/home-services.php:130
+#: patterns/home-services.php:194 patterns/home-services.php:258
+msgid "Eveniet inceptos vero."
+msgstr ""
+
+#: patterns/home-faqs.php:103
+msgid "EXPERIENCE"
+msgstr ""
+
+#: patterns/home-hero-banner.php:57
+msgid "Follow Me On :"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "DM Sans"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Inter"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Poppins"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font family name"
+msgid "Urbanist"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXX Large Ext"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Font size name"
+msgid "XXXX Large"
+msgstr ""
+
+#: patterns/home-about.php:22
+msgid "Get to Know Me And"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Gradient name"
+msgid "Primary"
+msgstr ""
+
+#: patterns/home-about.php:75
+msgid "Happy Clients"
+msgstr ""
+
+#: patterns/home-hero-banner.php:14
+msgid "Hi, I&#39;m Kevin Lord,"
+msgstr ""
+
+#: patterns/home-services.php:302 patterns/home-about.php:106
+#: patterns/header.php:35 patterns/home-hero-banner.php:31
+msgid "HIRE ME NOW"
+msgstr ""
+
+#: patterns/home-faqs.php:51
+msgid "How do you charge for your services?"
+msgstr ""
+
+#: patterns/home-faqs.php:39
+msgid "How do you communicate during the project?"
+msgstr ""
+
+#: patterns/home-hero-banner.php:48
+msgid "HOW I WORK"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://blockskit.com"
+msgstr ""
+
+#. URI of the theme
+msgid "https://blockskit.com/blockskit-portfolio/"
+msgstr ""
+
+#: patterns/home-services.php:76 patterns/home-services.php:140
+#: patterns/home-services.php:204 patterns/home-services.php:268
+msgid "Laoret indunt curabitur."
+msgstr ""
+
+#: patterns/home-faqs.php:71
+msgid "Main Objectives"
+msgstr ""
+
+#: patterns/home-services.php:110
+msgid "Mobile App Development"
+msgstr ""
+
+#: patterns/home-about.php:102
+msgid "MORE ABOUT ME"
+msgstr ""
+
+#: patterns/home-about.php:27
+msgid "My Journey/Passion"
+msgstr ""
+
+#: patterns/template-cart.php:220
+msgid "New in store"
+msgstr ""
+
+#: patterns/footer.php:19
+msgid ""
+"Nisl libero ullamcorper id ipsum viverra mauris non pellentesque placerat "
+"lorem lacinia sagittis non pretium."
+msgstr ""
+
+#: patterns/template-product-search-results.php:48
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: patterns/home-services.php:96 patterns/home-services.php:160
+#: patterns/home-services.php:224 patterns/home-services.php:288
+msgid "Nuquam coquat, qui."
+msgstr ""
+
+#: patterns/template-order-confirmation.php:22
+msgid "Order Confirmation"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:40
+msgid "Order details"
+msgstr ""
+
+#: patterns/home-about.php:2
+msgctxt "Pattern title"
+msgid "About"
+msgstr ""
+
+#: patterns/home-faqs.php:2
+msgctxt "Pattern title"
+msgid "FAQS"
+msgstr ""
+
+#: patterns/footer.php:2
+msgctxt "Pattern title"
+msgid "Footer"
+msgstr ""
+
+#: patterns/header.php:2
+msgctxt "Pattern title"
+msgid "Header"
+msgstr ""
+
+#: patterns/header-home.php:2
+msgctxt "Pattern title"
+msgid "Header Home"
+msgstr ""
+
+#: patterns/home-hero-banner.php:2
+msgctxt "Pattern title"
+msgid "Hero Banner"
+msgstr ""
+
+#: patterns/home.php:2
+msgctxt "Pattern title"
+msgid "Home"
+msgstr ""
+
+#: patterns/home-latest-posts.php:2
+msgctxt "Pattern title"
+msgid "Latest Posts"
+msgstr ""
+
+#: patterns/home-services.php:2
+msgctxt "Pattern title"
+msgid "Services"
+msgstr ""
+
+#: patterns/template-404.php:2
+msgctxt "Pattern title"
+msgid "Template 404"
+msgstr ""
+
+#: patterns/template-archive.php:2
+msgctxt "Pattern title"
+msgid "Template Archive"
+msgstr ""
+
+#: patterns/template-archive-product.php:2
+msgctxt "Pattern title"
+msgid "Template Archive Product"
+msgstr ""
+
+#: patterns/template-blog-listing.php:2
+msgctxt "Pattern title"
+msgid "Template Blog Listing"
+msgstr ""
+
+#: patterns/template-cart.php:2
+msgctxt "Pattern title"
+msgid "Template Cart"
+msgstr ""
+
+#: patterns/template-checkout.php:2
+msgctxt "Pattern title"
+msgid "Template Checkout"
+msgstr ""
+
+#: patterns/template-full-width.php:2
+msgctxt "Pattern title"
+msgid "Template Full Width"
+msgstr ""
+
+#: patterns/template-index.php:2
+msgctxt "Pattern title"
+msgid "Template Index"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:2
+msgctxt "Pattern title"
+msgid "Template Order Confirmation"
+msgstr ""
+
+#: patterns/template-page.php:2
+msgctxt "Pattern title"
+msgid "Template Page"
+msgstr ""
+
+#: patterns/template-page-no-gap.php:2
+msgctxt "Pattern title"
+msgid "Template Page No Gap"
+msgstr ""
+
+#: patterns/template-page-no-title.php:2
+msgctxt "Pattern title"
+msgid "Template Page No Title"
+msgstr ""
+
+#: patterns/template-product-search-results.php:2
+msgctxt "Pattern title"
+msgid "Template Product Search Results"
+msgstr ""
+
+#: patterns/template-search.php:2
+msgctxt "Pattern title"
+msgid "Template Search"
+msgstr ""
+
+#: patterns/template-single.php:2
+msgctxt "Pattern title"
+msgid "Template Single"
+msgstr ""
+
+#: patterns/template-single-product.php:2
+msgctxt "Pattern title"
+msgid "Template Single Product"
+msgstr ""
+
+#: patterns/home-hero-banner.php:25
+msgid ""
+"Porro adipiscing consectetur montes nascetur risus fringilla dolorum "
+"corrupti! Lorem, sed aut. Inventore, fermentum ornare, officia curabitur, "
+"magnis. Esse iusto et nisl consequat bibendum reprehenderit."
+msgstr ""
+
+#: patterns/home-about.php:33 patterns/home-faqs.php:77
+msgid ""
+"Porro adipiscing consectetur montes nascetur risus fringilla dolorum "
+"corrupti! Lorem, sed aut. Inventore, fermentum ornare, officia curabitur, "
+"magnis. Esse iusto et nisl consequat bibendum."
+msgstr ""
+
+#: patterns/home-services.php:29 patterns/home-faqs.php:124
+msgid "Porro adipiscing consectetur montes nascetur risus fringilla dolorum."
+msgstr ""
+
+#: patterns/home-about.php:95
+msgid "Positive Reviews"
+msgstr ""
+
+#: patterns/home-hero-banner.php:19
+msgid "Product Designer"
+msgstr ""
+
+#: patterns/footer.php:37
+msgid "Products"
+msgstr ""
+
+#: patterns/home-about.php:85
+msgid "Project Done"
+msgstr ""
+
+#: patterns/home-services.php:18
+msgid "Providing Best &amp;Top Notch"
+msgstr ""
+
+#: patterns/home-faqs.php:66
+msgid "Quality Services Is My"
+msgstr ""
+
+#: patterns/home-latest-posts.php:19
+msgid "Recent Insights"
+msgstr ""
+
+#: patterns/template-single-product.php:57
+msgid "Related products"
+msgstr ""
+
+#: patterns/footer.php:73
+msgid "Resources"
+msgstr ""
+
+#: patterns/home-services.php:174
+msgid "SEO &amp; Content Management"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Bold"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Light"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Shadow name"
+msgid "Soft"
+msgstr ""
+
+#: patterns/template-order-confirmation.php:58
+msgid "Shipping address"
+msgstr ""
+
+#: patterns/template-single-product.php:15
+msgid "Single Product"
+msgstr ""
+
+#: patterns/template-search.php:50
+msgid "Sorry, but nothing matched your search terms. Try another search?"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Medium"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "X Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "X Small"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "XX Large"
+msgstr ""
+
+#: theme.json:1
+msgctxt "Space size name"
+msgid "XX Small"
+msgstr ""
+
+#: patterns/footer.php:89
+msgid "Support"
+msgstr ""
+
+#: functions.php:48
+msgid "Theme Patterns"
+msgstr ""
+
+#: patterns/template-404.php:23
+msgid "This page could not be found. Maybe try a search?"
+msgstr ""
+
+#: patterns/home-services.php:46
+msgid "UI/UX (Product) Designing"
+msgstr ""
+
+#: patterns/home-services.php:86 patterns/home-services.php:150
+#: patterns/home-services.php:214 patterns/home-services.php:278
+msgid "Ulamco maiores ultries."
+msgstr ""
+
+#: patterns/home-latest-posts.php:27
+msgid ""
+"Unde labore. Integer vero, sed magna eius, illum ornare. Quae repudiandae "
+"tempore voluptate aliquam debitis vivamus, nascetur iusto, illo vitae. Morbi "
+"curabitur! Vel natoque torquent tempus consequatur aliquet, elementum "
+"repellendus turpis aliquam nostru"
+msgstr ""
+
+#: patterns/home-about.php:43
+msgid "Veritatis vel adipisci reprehenderit consequatur."
+msgstr ""
+
+#: patterns/home-services.php:298
+msgid "VIEW ALL SERVICES"
+msgstr ""
+
+#: patterns/home-hero-banner.php:44
+msgid "WATCH"
+msgstr ""
+
+#: patterns/home-faqs.php:15
+msgid "What services do you offer as a freelancer?"
+msgstr ""
+
+#: patterns/home-faqs.php:99
+msgid "YEARS OF"
+msgstr ""
+
+#: patterns/template-cart.php:26 patterns/template-cart.php:89
+#: patterns/template-cart.php:152
+msgid "You may be interested in…"
+msgstr ""
+
+#: patterns/template-cart.php:208
+msgid "Your cart is currently empty!"
+msgstr ""
+
+#: patterns/footer.php:114
+msgid "· All rights reserved"
+msgstr ""
